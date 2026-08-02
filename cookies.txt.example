@@ -1,0 +1,10 @@
+# Copy this file to cookies.txt and fill in real values.
+# One account per line. Two formats supported:
+#   PSID:PSIDTS
+#   label|PSID:PSIDTS
+#
+# Get PSID (__Secure-1PSID) and PSIDTS (__Secure-1PSIDTS) from your browser's
+# cookies while logged into gemini.google.com.
+
+work|g.YOUR_PSID_VALUE:sidts-YOUR_PSIDTS_VALUE
+personal|g.ANOTHER_PSID_VALUE:sidts-ANOTHER_PSIDTS_VALUE
